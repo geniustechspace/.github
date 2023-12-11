@@ -1,5 +1,5 @@
-### GENIUS TECH SPACE
-# The Essence of Technology
+# GENIUS TECH SPACE
+### The Essence of Technology
 
 ## INTRODUCTION
 
