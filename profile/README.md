@@ -1,5 +1,5 @@
 # Genius Tech Space
-## The Essence of Technology
+- **The Essence of Technology**
 Integrating technology with the business space, providing a seemless human business operations
 
 ## Introduction
