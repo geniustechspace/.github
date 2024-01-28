@@ -1,11 +1,11 @@
-## GENIUS TECH SPACE
+# Genius Tech Space
 ### The Essence of Technology
 Integrating technology with the business space, providing a seemless human business operations
 
-### INTRODUCTION
+## Introduction
 Genius Tech Space is a technological company aiming at easen human interactions with businesses
 
-### CONTIBUTION GUIDLINES
+## contribution Guidelines
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
