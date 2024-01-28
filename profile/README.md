@@ -1,10 +1,10 @@
-# GENIUS TECH SPACE
+## GENIUS TECH SPACE
 ### The Essence of Technology
 
-## INTRODUCTION
+### INTRODUCTION
 
 
-## CONTIBUTION GUIDLINES
+### CONTIBUTION GUIDLINES
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
